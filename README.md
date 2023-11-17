@@ -15,4 +15,26 @@
 
 </div>
 </div>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  </div>
+  <br>
+  <hr>
+  
+  ### :man_technologist: About Me:
+  I'm a second year uni student at AUT studying a Bachelor of Computer and Information Sciences, with interest in data science and ai
+
+ - I'm working as a STEM Educator at Skill Samurai Wairau
+ - As well as being a Checkout Supervisor at Countdown Milford
+ - In my spare time I'm at the gym, fishing, and spending time with family and friends
+ - I also enjoy solving leetcode questions and working on personal projects
+
+   ---
+
+   ### :hammer_and_wrench: Languages and Tools :
+   <div>
+     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+   </div>
+  
+
 
