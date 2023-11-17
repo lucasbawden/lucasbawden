@@ -28,6 +28,8 @@
  - As well as being a Checkout Supervisor at Countdown Milford
  - In my spare time I'm at the gym, fishing, and spending time with family and friends
  - I also enjoy solving leetcode questions and working on personal projects
+ - How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-bawden-860a241b9/)
+   
 
    ---
 
